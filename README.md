@@ -46,6 +46,7 @@ X makes a move to square 4
 |   |   |   |
 
 O's turn. Input move (0-8): 0
+
 O makes a move to square 0
 | O |   |   |
 |   | X |   |
@@ -66,6 +67,3 @@ The AI player uses the minimax algorithm to determine its moves.
 
 A player that makes random moves.
 
-## Acknowledgments
-
-This implementation is for educational purposes and was inspired by various Tic Tac Toe implementations available online.
